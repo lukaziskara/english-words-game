@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>500 ინგლისური სიტყვა</title>
+  <link rel="stylesheet" href="header.css">
+  <link rel="stylesheet" href="dictionary.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <header>
+      <div class="btn menu-btn" onclick="openNav()">
+        <div class="menu-stripe"></div>
+        <div class="menu-stripe"></div>
+        <div class="menu-stripe"></div>
+      </div>
+
+      <div id="dict-score">
+        <h3><span id="points"></h3>
+        
+      </div>
+      <button class="restart-button">თავიდან</button>
+      <button class="start-button">დაწყება</button>
+    </header>
+    <nav id="mySidenav" class="sidenav w-100">
+      <a class="btn" href="../index.html">მთავარი</a>
+      <a class="btn" href="">ბლოგი</a>
+      <a class="btn" href="#">შესახებ</a>
+      <a class="btn" href="#">კონტაქტი</a>
+    </nav>
+    <div class="shuffled" id="gameBoard"></div>
+    <div class="sorted" id="dictBoard"></div>
+  </div>
+  <script src="app.js"></script>
+  <script src="header.js"></script>
+</body>
+
+</html>

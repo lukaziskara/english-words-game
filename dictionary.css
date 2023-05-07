@@ -1,0 +1,85 @@
+header {
+  justify-content: left;
+}
+#dict-score {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-left: 1em;
+  background-color: rgb(0, 0, 138);
+  width: 7em;
+  padding-left: 1em;
+  border-radius: 1em;
+  color: green;
+}
+/* .game {
+  background-color: rgb(99, 14, 14);
+  display: flex;
+  flex-wrap: wrap;
+} */
+.shuffled {
+  background-color: rgb(169, 165, 165);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
+.card {
+  font-size: 14px;
+  color: rgb(8, 8, 8);
+  background-color: rgb(43, 146, 43);
+  margin: 5px;
+  width: 80px;
+  height: 65px;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.clicked {
+  background-color: rgb(153, 105, 2);
+}
+.guessed {
+  background-color: black;
+}
+.wonWord {
+  color: white;
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+  width: 100px;
+  height: 65px;
+  text-align: center;
+  border-radius: 5px;
+}
+.oneSideWord {
+  color: white;
+  background-color: green;
+  margin: 10px;
+  width: 100px;
+  height: 65px;
+  text-align: center;
+  border-radius: 5px;
+}
+.twoSideWord {
+  color: white;
+  background-color: rgb(155, 3, 3);
+  margin: 10px;
+  width: 100px;
+  height: 65px;
+  text-align: center;
+  border-radius: 5px;
+}
+.sorted {
+  background-color: rgb(1, 125, 1);
+  display: flex;
+  flex-wrap: wrap;
+}
+.translatedWord {
+  color: rgb(0, 0, 0);
+  background-color: rgb(220, 223, 217);
+  margin: 5px;
+  padding: 5px;
+  width: fit-content;
+  height: fit-content;
+  text-align: center;
+  border-radius: 5px;
+}

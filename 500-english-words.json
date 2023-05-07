@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 1,
+    "backText": "car",
+    "frontText": "მანქანა"
+  },
+  {
+    "id": 2,
+    "backText": "sky",
+    "frontText": "ცა"
+  },
+  {
+    "id": 3,
+    "backText": "table",
+    "frontText": "მაგიდა"
+  },
+  {
+    "id": 4,
+    "backText": "head",
+    "frontText": "თავი"
+  },
+  {
+    "id": 5,
+    "backText": "window",
+    "frontText": "ფანჯარა"
+  },
+  {
+    "id": 6,
+    "backText": "door",
+    "frontText": "კარი"
+  },
+  {
+    "id": 7,
+    "backText": "clock",
+    "frontText": "საათი"
+  },
+  {
+    "id": 8,
+    "backText": "tea",
+    "frontText": "ჩაი"
+  },
+  {
+    "id": 9,
+    "backText": "beautiful",
+    "frontText": "ლამაზი"
+  },
+  {
+    "id": 10,
+    "backText": "long",
+    "frontText": "გრძელი"
+  },
+  {
+    "id": 11,
+    "backText": "wheel",
+    "frontText": "ბორბალი"
+  },
+  {
+    "id": 12,
+    "backText": "wall",
+    "frontText": "კედელი"
+  },
+  {
+    "id": 13,
+    "backText": "fox",
+    "frontText": "მელა"
+  },
+  {
+    "id": 14,
+    "backText": "tv",
+    "frontText": "ტელევიზორი"
+  },
+  {
+    "id": 15,
+    "backText": "face",
+    "frontText": "სახე"
+  },
+  {
+    "id": 16,
+    "backText": "object",
+    "frontText": "ობიექტი"
+  },
+  {
+    "id": 17,
+    "backText": "narrow",
+    "frontText": "ვიწრო"
+  },
+  {
+    "id": 18,
+    "backText": "old",
+    "frontText": "ძველი"
+  },
+  {
+    "id": 19,
+    "backText": "zoo",
+    "frontText": "ზოოპარკი"
+  },
+  {
+    "id": 20,
+    "backText": "yes",
+    "frontText": "დიახ"
+  },
+  {
+    "id": 21,
+    "backText": "modern",
+    "frontText": "თანამედროვე"
+  },
+  {
+    "id": 22,
+    "backText": "ocean",
+    "frontText": "ოკეანე"
+  },
+  {
+    "id": 23,
+    "backText": "happy",
+    "frontText": "ბედნიერი"
+  },
+  {
+    "id": 24,
+    "backText": "dance",
+    "frontText": "ცეკვა"
+  },
+  {
+    "id": 25,
+    "backText": "baby",
+    "frontText": "ჩვილი"
+  },
+  {
+    "id": 26,
+    "backText": "autumn",
+    "frontText": "შემოდგომა"
+  },
+  {
+    "id": 27,
+    "backText": "apple",
+    "frontText": "ვაშლი"
+  },
+  {
+    "id": 28,
+    "backText": "cat",
+    "frontText": "კატა"
+  },
+  {
+    "id": 29,
+    "backText": "empty",
+    "frontText": "ცარიელი"
+  },
+  {
+    "id": 30,
+    "backText": "egg",
+    "frontText": "კვერცხი"
+  },
+  {
+    "id": 31,
+    "backText": "gift",
+    "frontText": "საჩუქარი"
+  },
+  {
+    "id": 32,
+    "backText": "juice",
+    "frontText": "წვენი"
+  },
+  {
+    "id": 33,
+    "backText": "last",
+    "frontText": "ბოლო"
+  },
+  {
+    "id": 34,
+    "backText": "map",
+    "frontText": "რუკა"
+  },
+  {
+    "id": 35,
+    "backText": "knife",
+    "frontText": "დანა"
+  },
+  {
+    "id": 36,
+    "backText": "leaf",
+    "frontText": "ფოთოლი"
+  },
+  {
+    "id": 37,
+    "backText": "next",
+    "frontText": "შემდეგი"
+  },
+  {
+    "id": 38,
+    "backText": "offer",
+    "frontText": "შეთავაზება"
+  },
+  {
+    "id": 39,
+    "backText": "speed",
+    "frontText": "სიჩქარე"
+  },
+  {
+    "id": 40,
+    "backText": "good",
+    "frontText": "კარგი"
+  },
+  {
+    "id": 41,
+    "backText": "clever",
+    "frontText": "ჭკვიანი"
+  },
+  {
+    "id": 42,
+    "backText": "cool",
+    "frontText": "ცივი"
+  },
+  {
+    "id": 43,
+    "backText": "monkey",
+    "frontText": "მაიმუნი"
+  },
+  {
+    "id": 44,
+    "backText": "real",
+    "frontText": "ნამდვილი"
+  },
+  {
+    "id": 45,
+    "backText": "active",
+    "frontText": "აქტიური"
+  },
+  {
+    "id": 46,
+    "backText": "cake",
+    "frontText": "ნამცხვარი"
+  },
+  {
+    "id": 47,
+    "backText": "gate",
+    "frontText": "კარი"
+  },
+  {
+    "id": 48,
+    "backText": "price",
+    "frontText": "ფასი"
+  },
+  {
+    "id": 49,
+    "backText": "often",
+    "frontText": "ხშირად"
+  },
+  {
+    "id": 50,
+    "backText": "queen",
+    "frontText": "დედოფალი"
+  },
+  {
+    "id": 51,
+    "backText": "strange",
+    "frontText": "უცნაური"
+  },
+  {
+    "id": 52,
+    "backText": "title",
+    "frontText": "სათაური"
+  },
+  {
+    "id": 53,
+    "backText": "strong",
+    "frontText": "ძლიერი"
+  },
+  {
+    "id": 54,
+    "backText": "young",
+    "frontText": "ახალგაზრდა"
+  },
+  {
+    "id": 55,
+    "backText": "village",
+    "frontText": "სოფელი"
+  },
+  {
+    "id": 56,
+    "backText": "ladder",
+    "frontText": "კიბე"
+  },
+  {
+    "id": 57,
+    "backText": "love",
+    "frontText": "სიყვარული"
+  },
+  {
+    "id": 58,
+    "backText": "amount",
+    "frontText": "რაოდენობა"
+  },
+  {
+    "id": 59,
+    "backText": "basket",
+    "frontText": "კალათა"
+  },
+  {
+    "id": 60,
+    "backText": "goat",
+    "frontText": "თხა"
+  },
+  {
+    "id": 61,
+    "backText": "coffee",
+    "frontText": "ყავა"
+  },
+  {
+    "id": 62,
+    "backText": "dog",
+    "frontText": "ძაღლი"
+  },
+  {
+    "id": 63,
+    "backText": "corn",
+    "frontText": "სიმინდი"
+  },
+  {
+    "id": 64,
+    "backText": "mouse",
+    "frontText": "თაგვი"
+  },
+  {
+    "id": 65,
+    "backText": "eight",
+    "frontText": "რვა"
+  },
+  {
+    "id": 66,
+    "backText": "control",
+    "frontText": "კონტროლი"
+  },
+  {
+    "id": 67,
+    "backText": "candle",
+    "frontText": "სანთელი"
+  },
+  {
+    "id": 68,
+    "backText": "easy",
+    "frontText": "მარტივი"
+  },
+  {
+    "id": 69,
+    "backText": "education",
+    "frontText": "განათლება"
+  },
+  {
+    "id": 70,
+    "backText": "forest",
+    "frontText": "ტყე"
+  },
+  {
+    "id": 71,
+    "backText": "plate",
+    "frontText": "თეფში"
+  },
+  {
+    "id": 72,
+    "backText": "wild",
+    "frontText": "ველური"
+  },
+  {
+    "id": 73,
+    "backText": "past",
+    "frontText": "წარსული"
+  },
+  {
+    "id": 74,
+    "backText": "one",
+    "frontText": "ერთი"
+  },
+  {
+    "id": 75,
+    "backText": "science",
+    "frontText": "მეცნიერება"
+  },
+  {
+    "id": 76,
+    "backText": "park",
+    "frontText": "პარკი"
+  },
+  {
+    "id": 77,
+    "backText": "two",
+    "frontText": "ორი"
+  },
+  {
+    "id": 78,
+    "backText": "party",
+    "frontText": "წვეულება"
+  },
+  {
+    "id": 79,
+    "backText": "lazy",
+    "frontText": "ზარმაცი"
+  },
+  {
+    "id": 80,
+    "backText": "lesson",
+    "frontText": "გაკვეთილი"
+  },
+  {
+    "id": 81,
+    "backText": "four",
+    "frontText": "ოთხი"
+  },
+  {
+    "id": 82,
+    "backText": "bank",
+    "frontText": "ნაპირი"
+  },
+  {
+    "id": 83,
+    "backText": "red",
+    "frontText": "წითელი"
+  },
+  {
+    "id": 84,
+    "backText": "finger",
+    "frontText": "თითი"
+  },
+  {
+    "id": 85,
+    "backText": "chair",
+    "frontText": "სკამი"
+  },
+  {
+    "id": 86,
+    "backText": "condition",
+    "frontText": "მდგომარეობა"
+  },
+  {
+    "id": 87,
+    "backText": "after",
+    "frontText": "შემდეგ"
+  },
+  {
+    "id": 88,
+    "backText": "circle",
+    "frontText": "წრე"
+  },
+  {
+    "id": 89,
+    "backText": "island",
+    "frontText": "კუნძული"
+  },
+  {
+    "id": 90,
+    "backText": "jump",
+    "frontText": "ხტომა"
+  },
+  {
+    "id": 91,
+    "backText": "king",
+    "frontText": "მეფე"
+  },
+  {
+    "id": 92,
+    "backText": "phone",
+    "frontText": "ტელეფონი"
+  },
+  {
+    "id": 93,
+    "backText": "screen",
+    "frontText": "ეკრანი"
+  },
+  {
+    "id": 94,
+    "backText": "bottle",
+    "frontText": "ბოთლი"
+  },
+  {
+    "id": 95,
+    "backText": "leg",
+    "frontText": "ფეხი"
+  },
+  {
+    "id": 96,
+    "backText": "help",
+    "frontText": "დახმარება"
+  },
+  {
+    "id": 97,
+    "backText": "dress",
+    "frontText": "კაბა"
+  },
+  {
+    "id": 98,
+    "backText": "soft",
+    "frontText": "რბილი"
+  },
+  {
+    "id": 99,
+    "backText": "five",
+    "frontText": "ხუთი"
+  },
+  {
+    "id": 100,
+    "backText": "yellow",
+    "frontText": "ყვითელი"
+  },
+  {
+    "id": 101,
+    "backText": "bird",
+    "frontText": "ჩიტი"
+  },
+  {
+    "id": 102,
+    "backText": "bag",
+    "frontText": "ჩანთა"
+  },
+  {
+    "id": 103,
+    "backText": "page",
+    "frontText": "გვერდი"
+  },
+  {
+    "id": 104,
+    "backText": "hand",
+    "frontText": "ხელი"
+  },
+  {
+    "id": 105,
+    "backText": "new",
+    "frontText": "ახალი"
+  },
+  {
+    "id": 106,
+    "backText": "knowledge",
+    "frontText": "ცოდნა"
+  },
+  {
+    "id": 107,
+    "backText": "picture",
+    "frontText": "სურათი"
+  },
+  {
+    "id": 108,
+    "backText": "kind",
+    "frontText": "კეთილი"
+  },
+  {
+    "id": 109,
+    "backText": "seven",
+    "frontText": "შვიდი"
+  },
+  {
+    "id": 110,
+    "backText": "heart",
+    "frontText": "გული"
+  },
+  {
+    "id": 111,
+    "backText": "pig",
+    "frontText": "ღორი"
+  },
+  {
+    "id": 112,
+    "backText": "ball",
+    "frontText": "ბურთი"
+  },
+  {
+    "id": 113,
+    "backText": "pen",
+    "frontText": "კალამი"
+  },
+  {
+    "id": 114,
+    "backText": "music",
+    "frontText": "მუსიკა"
+  },
+  {
+    "id": 115,
+    "backText": "sponge",
+    "frontText": "ღრუბელი"
+  },
+  {
+    "id": 116,
+    "backText": "green",
+    "frontText": "მწვანე"
+  },
+  {
+    "id": 117,
+    "backText": "paper",
+    "frontText": "ქაღალდი"
+  },
+  {
+    "id": 118,
+    "backText": "pencil",
+    "frontText": "ფანქარი"
+  },
+  {
+    "id": 119,
+    "backText": "bridge",
+    "frontText": "ხიდი"
+  },
+  {
+    "id": 120,
+    "backText": "bus",
+    "frontText": "ავტობუსი"
+  },
+  {
+    "id": 121,
+    "backText": "wheat",
+    "frontText": "ხორბალი"
+  },
+  {
+    "id": 122,
+    "backText": "three",
+    "frontText": "სამი"
+  },
+  {
+    "id": 123,
+    "backText": "bed",
+    "frontText": "საწოლი"
+  },
+  {
+    "id": 124,
+    "backText": "ear",
+    "frontText": "ყური"
+  },
+  {
+    "id": 125,
+    "backText": "wife",
+    "frontText": "ცოლი"
+  },
+  {
+    "id": 126,
+    "backText": "dry",
+    "frontText": "მშრალი"
+  },
+  {
+    "id": 127,
+    "backText": "elephant",
+    "frontText": "სპილო"
+  },
+  {
+    "id": 128,
+    "backText": "six",
+    "frontText": "ექვსი"
+  },
+  {
+    "id": 129,
+    "backText": "foot",
+    "frontText": "ფეხი"
+  },
+  {
+    "id": 130,
+    "backText": "corner",
+    "frontText": "კუთხე"
+  },
+  {
+    "id": 131,
+    "backText": "few",
+    "frontText": "ცოტა"
+  },
+  {
+    "id": 132,
+    "backText": "mother",
+    "frontText": "დედა"
+  },
+  {
+    "id": 133,
+    "backText": "key",
+    "frontText": "გასაღები"
+  },
+  {
+    "id": 134,
+    "backText": "other",
+    "frontText": "სხვა"
+  },
+  {
+    "id": 135,
+    "backText": "nine",
+    "frontText": "ცხრა"
+  },
+  {
+    "id": 136,
+    "backText": "city",
+    "frontText": "ქალაქი"
+  },
+  {
+    "id": 137,
+    "backText": "son",
+    "frontText": "ვაჟი"
+  },
+  {
+    "id": 138,
+    "backText": "pear",
+    "frontText": "მსხალი"
+  },
+  {
+    "id": 139,
+    "backText": "cheap",
+    "frontText": "იაფი"
+  },
+  {
+    "id": 140,
+    "backText": "bread",
+    "frontText": "პური"
+  },
+  {
+    "id": 141,
+    "backText": "ugly",
+    "frontText": "უშნო"
+  },
+  {
+    "id": 142,
+    "backText": "hello",
+    "frontText": "გამარჯობა"
+  },
+  {
+    "id": 143,
+    "backText": "cow",
+    "frontText": "ძროხა"
+  },
+  {
+    "id": 144,
+    "backText": "room",
+    "frontText": "ოთახი"
+  },
+  {
+    "id": 145,
+    "backText": "air",
+    "frontText": "ჰაერი"
+  },
+  {
+    "id": 146,
+    "backText": "boy",
+    "frontText": "ბიჭი"
+  },
+  {
+    "id": 147,
+    "backText": "cold",
+    "frontText": "ცივი"
+  },
+  {
+    "id": 148,
+    "backText": "shoe",
+    "frontText": "ფეხსაცმელი"
+  },
+  {
+    "id": 149,
+    "backText": "nose",
+    "frontText": "ცხვირი"
+  },
+  {
+    "id": 150,
+    "backText": "girl",
+    "frontText": "გოგო"
+  },
+  {
+    "id": 151,
+    "backText": "hot",
+    "frontText": "ცხელი"
+  },
+  {
+    "id": 152,
+    "backText": "soup",
+    "frontText": "სუპი"
+  },
+  {
+    "id": 153,
+    "backText": "bad",
+    "frontText": "ცუდი"
+  },
+  {
+    "id": 154,
+    "backText": "peach",
+    "frontText": "ატამი"
+  },
+  {
+    "id": 155,
+    "backText": "toy",
+    "frontText": "სათამაშო"
+  },
+  {
+    "id": 156,
+    "backText": "donkey",
+    "frontText": "ვირი"
+  },
+  {
+    "id": 157,
+    "backText": "blue",
+    "frontText": "ლურჯი"
+  },
+  {
+    "id": 158,
+    "backText": "eraser",
+    "frontText": "საშლელი"
+  },
+  {
+    "id": 159,
+    "backText": "box",
+    "frontText": "ყუთი"
+  },
+  {
+    "id": 160,
+    "backText": "belly",
+    "frontText": "მუცელი"
+  },
+  {
+    "id": 161,
+    "backText": "cap",
+    "frontText": "კეპი"
+  },
+  {
+    "id": 162,
+    "backText": "clear",
+    "frontText": "სუფთა"
+  },
+  {
+    "id": 163,
+    "backText": "ten",
+    "frontText": "ათი"
+  },
+  {
+    "id": 164,
+    "backText": "piano",
+    "frontText": "ფორტეპიანო"
+  },
+  {
+    "id": 165,
+    "backText": "big",
+    "frontText": "დიდი"
+  },
+  {
+    "id": 166,
+    "backText": "child",
+    "frontText": "ბავშვი"
+  },
+  {
+    "id": 167,
+    "backText": "nail",
+    "frontText": "ფრჩხილი"
+  },
+  {
+    "id": 168,
+    "backText": "day",
+    "frontText": "დღე"
+  },
+  {
+    "id": 169,
+    "backText": "free",
+    "frontText": "თავისუფალი"
+  },
+  {
+    "id": 170,
+    "backText": "sea",
+    "frontText": "ზღვა"
+  },
+  {
+    "id": 171,
+    "backText": "spoon",
+    "frontText": "კოვზი"
+  },
+  {
+    "id": 172,
+    "backText": "enemy",
+    "frontText": "მტერი"
+  },
+  {
+    "id": 173,
+    "backText": "god",
+    "frontText": "ღმერთი"
+  },
+  {
+    "id": 174,
+    "backText": "ice",
+    "frontText": "ყინული"
+  },
+  {
+    "id": 175,
+    "backText": "goodbye",
+    "frontText": "ნახვამდის"
+  },
+  {
+    "id": 176,
+    "backText": "daughter",
+    "frontText": "ქალიშვილი"
+  },
+  {
+    "id": 177,
+    "backText": "lion",
+    "frontText": "ლომი"
+  },
+  {
+    "id": 178,
+    "backText": "sofa",
+    "frontText": "დივანი"
+  },
+  {
+    "id": 179,
+    "backText": "take",
+    "frontText": "აღება"
+  },
+  {
+    "id": 180,
+    "backText": "georgia",
+    "frontText": "საქართველო"
+  },
+  {
+    "id": 181,
+    "backText": "water",
+    "frontText": "წყალი"
+  },
+  {
+    "id": 182,
+    "backText": "eleven",
+    "frontText": "თერთმეტი"
+  },
+  {
+    "id": 183,
+    "backText": "white",
+    "frontText": "თეთრი"
+  },
+  {
+    "id": 184,
+    "backText": "button",
+    "frontText": "ღილაკი"
+  },
+  {
+    "id": 185,
+    "backText": "black",
+    "frontText": "შავი"
+  },
+  {
+    "id": 186,
+    "backText": "my",
+    "frontText": "ჩემი"
+  },
+  {
+    "id": 187,
+    "backText": "brother",
+    "frontText": "ძმა"
+  },
+  {
+    "id": 188,
+    "backText": "hair",
+    "frontText": "თმა"
+  },
+  {
+    "id": 189,
+    "backText": "fork",
+    "frontText": "ჩანგალი"
+  },
+  {
+    "id": 190,
+    "backText": "twelve",
+    "frontText": "თორმეტი"
+  },
+  {
+    "id": 191,
+    "backText": "wish",
+    "frontText": "სურვილი"
+  },
+  {
+    "id": 192,
+    "backText": "wrong",
+    "frontText": "არასწორი"
+  },
+  {
+    "id": 193,
+    "backText": "up",
+    "frontText": "მაღლა"
+  },
+  {
+    "id": 194,
+    "backText": "tooth",
+    "frontText": "კბილი"
+  },
+  {
+    "id": 195,
+    "backText": "teacher",
+    "frontText": "მასწავლებელი"
+  },
+  {
+    "id": 196,
+    "backText": "sweet",
+    "frontText": "ტკბილი"
+  },
+  {
+    "id": 197,
+    "backText": "smile",
+    "frontText": "ღიმილი"
+  },
+  {
+    "id": 198,
+    "backText": "pupil",
+    "frontText": "მოსწავლე"
+  },
+  {
+    "id": 199,
+    "backText": "oil",
+    "frontText": "ზეთი"
+  },
+  {
+    "id": 200,
+    "backText": "nature",
+    "frontText": "ბუნება"
+  },
+  {
+    "id": 201,
+    "backText": "problem",
+    "frontText": "პრობლემა"
+  },
+  {
+    "id": 202,
+    "backText": "short",
+    "frontText": "მოკლე"
+  },
+  {
+    "id": 203,
+    "backText": "colour",
+    "frontText": "ფერი"
+  },
+  {
+    "id": 204,
+    "backText": "your",
+    "frontText": "შენი"
+  },
+  {
+    "id": 205,
+    "backText": "pocket",
+    "frontText": "ჯიბე"
+  },
+  {
+    "id": 206,
+    "backText": "man",
+    "frontText": "კაცი"
+  },
+  {
+    "id": 207,
+    "backText": "knee",
+    "frontText": "მუხლი"
+  },
+  {
+    "id": 208,
+    "backText": "healthy",
+    "frontText": "ჯანმრთელი"
+  },
+  {
+    "id": 209,
+    "backText": "thirteen",
+    "frontText": "ცამეტი"
+  },
+  {
+    "id": 210,
+    "backText": "gray",
+    "frontText": "ნაცრისფერი"
+  },
+  {
+    "id": 211,
+    "backText": "river",
+    "frontText": "მდინარე"
+  },
+  {
+    "id": 212,
+    "backText": "video",
+    "frontText": "ვიდეო"
+  },
+  {
+    "id": 213,
+    "backText": "sharp",
+    "frontText": "ბასრი"
+  },
+  {
+    "id": 214,
+    "backText": "night",
+    "frontText": "ღამე"
+  },
+  {
+    "id": 215,
+    "backText": "stove",
+    "frontText": "ღუმელი"
+  },
+  {
+    "id": 216,
+    "backText": "full",
+    "frontText": "სავსე"
+  },
+  {
+    "id": 217,
+    "backText": "morning",
+    "frontText": "დილა"
+  },
+  {
+    "id": 218,
+    "backText": "fourteen",
+    "frontText": "თოთხმეტი"
+  },
+  {
+    "id": 219,
+    "backText": "monday",
+    "frontText": "ორშაბათი"
+  },
+  {
+    "id": 220,
+    "backText": "boat",
+    "frontText": "ნავი"
+  },
+  {
+    "id": 221,
+    "backText": "tail",
+    "frontText": "კუდი"
+  },
+  {
+    "id": 222,
+    "backText": "rat",
+    "frontText": "ვირთხა"
+  },
+  {
+    "id": 223,
+    "backText": "handle",
+    "frontText": "სახელური"
+  },
+  {
+    "id": 224,
+    "backText": "fifteen",
+    "frontText": "თხუთმეტი"
+  },
+  {
+    "id": 225,
+    "backText": "yard",
+    "frontText": "ეზო"
+  },
+  {
+    "id": 226,
+    "backText": "tuesday",
+    "frontText": "სამშაბათი"
+  },
+  {
+    "id": 227,
+    "backText": "fire",
+    "frontText": "ცეცხლი"
+  },
+  {
+    "id": 228,
+    "backText": "never",
+    "frontText": "არასოდეს"
+  },
+  {
+    "id": 229,
+    "backText": "rain",
+    "frontText": "წვიმა"
+  },
+  {
+    "id": 230,
+    "backText": "human",
+    "frontText": "ადამიანი"
+  },
+  {
+    "id": 231,
+    "backText": "reason",
+    "frontText": "მიზეზი"
+  },
+  {
+    "id": 232,
+    "backText": "wednesday",
+    "frontText": "ოთხშაბათი"
+  },
+  {
+    "id": 233,
+    "backText": "rose",
+    "frontText": "ვარდი"
+  },
+  {
+    "id": 234,
+    "backText": "floor",
+    "frontText": "იატაკი"
+  },
+  {
+    "id": 235,
+    "backText": "friend",
+    "frontText": "მეგობარი"
+  },
+  {
+    "id": 236,
+    "backText": "place",
+    "frontText": "ადგილი"
+  },
+  {
+    "id": 237,
+    "backText": "result",
+    "frontText": "შედეგი"
+  },
+  {
+    "id": 238,
+    "backText": "train",
+    "frontText": "მატარებელი"
+  },
+  {
+    "id": 239,
+    "backText": "law",
+    "frontText": "კანონი"
+  },
+  {
+    "id": 240,
+    "backText": "potato",
+    "frontText": "კარტოფილი"
+  },
+  {
+    "id": 241,
+    "backText": "we",
+    "frontText": "ჩვენ"
+  },
+  {
+    "id": 242,
+    "backText": "process",
+    "frontText": "პროცესი"
+  },
+  {
+    "id": 243,
+    "backText": "slow",
+    "frontText": "ნელი"
+  },
+  {
+    "id": 244,
+    "backText": "light",
+    "frontText": "სინათლე"
+  },
+  {
+    "id": 245,
+    "backText": "drum",
+    "frontText": "დოლი"
+  },
+  {
+    "id": 246,
+    "backText": "wine",
+    "frontText": "ღვინო"
+  },
+  {
+    "id": 247,
+    "backText": "shape",
+    "frontText": "ფორმა"
+  },
+  {
+    "id": 248,
+    "backText": "duck",
+    "frontText": "იხვი"
+  },
+  {
+    "id": 249,
+    "backText": "horse",
+    "frontText": "ცხენი"
+  },
+  {
+    "id": 250,
+    "backText": "thursday",
+    "frontText": "ხუთშაბათი"
+  },
+  {
+    "id": 251,
+    "backText": "bone",
+    "frontText": "ძვალი"
+  },
+  {
+    "id": 252,
+    "backText": "pond",
+    "frontText": "გუბე"
+  },
+  {
+    "id": 253,
+    "backText": "fruit",
+    "frontText": "ხილი"
+  },
+  {
+    "id": 254,
+    "backText": "husband",
+    "frontText": "ქმარი"
+  },
+  {
+    "id": 255,
+    "backText": "melon",
+    "frontText": "ნესვი"
+  },
+  {
+    "id": 256,
+    "backText": "roof",
+    "frontText": "სახურავი"
+  },
+  {
+    "id": 257,
+    "backText": "grass",
+    "frontText": "ბალახი"
+  },
+  {
+    "id": 258,
+    "backText": "meat",
+    "frontText": "ხორცი"
+  },
+  {
+    "id": 259,
+    "backText": "furniture",
+    "frontText": "ავეჯი"
+  },
+  {
+    "id": 260,
+    "backText": "robot",
+    "frontText": "რობოტი"
+  },
+  {
+    "id": 261,
+    "backText": "rabbit",
+    "frontText": "ბოცვერი"
+  },
+  {
+    "id": 262,
+    "backText": "snake",
+    "frontText": "გველი"
+  },
+  {
+    "id": 263,
+    "backText": "butterfly",
+    "frontText": "პეპელა"
+  },
+  {
+    "id": 264,
+    "backText": "money",
+    "frontText": "ფული"
+  },
+  {
+    "id": 265,
+    "backText": "wing",
+    "frontText": "ფრთა"
+  },
+  {
+    "id": 266,
+    "backText": "think",
+    "frontText": "ფიქრი"
+  },
+  {
+    "id": 267,
+    "backText": "cross",
+    "frontText": "ჯვარი"
+  },
+  {
+    "id": 268,
+    "backText": "apron",
+    "frontText": "წინსაფარი"
+  },
+  {
+    "id": 269,
+    "backText": "plum",
+    "frontText": "ქლიავი"
+  },
+  {
+    "id": 270,
+    "backText": "theatre",
+    "frontText": "თეატრი"
+  },
+  {
+    "id": 271,
+    "backText": "goose",
+    "frontText": "ბატი"
+  },
+  {
+    "id": 272,
+    "backText": "right",
+    "frontText": "მარჯვენა"
+  },
+  {
+    "id": 273,
+    "backText": "sixteen",
+    "frontText": "თექვსმეტი"
+  },
+  {
+    "id": 274,
+    "backText": "actor",
+    "frontText": "მსახიობი"
+  },
+  {
+    "id": 275,
+    "backText": "soda",
+    "frontText": "სოდა"
+  },
+  {
+    "id": 276,
+    "backText": "woman",
+    "frontText": "ქალი"
+  },
+  {
+    "id": 277,
+    "backText": "mirror",
+    "frontText": "სარკე"
+  },
+  {
+    "id": 278,
+    "backText": "hunter",
+    "frontText": "მონადირე"
+  },
+  {
+    "id": 279,
+    "backText": "seventeen",
+    "frontText": "ჩვიდმეტი"
+  },
+  {
+    "id": 280,
+    "backText": "better",
+    "frontText": "უკეთესი"
+  },
+  {
+    "id": 281,
+    "backText": "hammer",
+    "frontText": "ჩაქუჩი"
+  },
+  {
+    "id": 282,
+    "backText": "again",
+    "frontText": "ისევ"
+  },
+  {
+    "id": 283,
+    "backText": "course",
+    "frontText": "კურსი"
+  },
+  {
+    "id": 284,
+    "backText": "brush",
+    "frontText": "ჯაგრისი"
+  },
+  {
+    "id": 285,
+    "backText": "january",
+    "frontText": "იანვარი"
+  },
+  {
+    "id": 286,
+    "backText": "force",
+    "frontText": "ძალა"
+  },
+  {
+    "id": 287,
+    "backText": "hope",
+    "frontText": "იმედი"
+  },
+  {
+    "id": 288,
+    "backText": "worse",
+    "frontText": "უარესი"
+  },
+  {
+    "id": 289,
+    "backText": "farm",
+    "frontText": "ფერმა"
+  },
+  {
+    "id": 290,
+    "backText": "eighteen",
+    "frontText": "თვრამეტი"
+  },
+  {
+    "id": 291,
+    "backText": "left",
+    "frontText": "მარცხენა"
+  },
+  {
+    "id": 292,
+    "backText": "storm",
+    "frontText": "ქარიშხალი"
+  },
+  {
+    "id": 293,
+    "backText": "shop",
+    "frontText": "მაღაზია"
+  },
+  {
+    "id": 294,
+    "backText": "unit",
+    "frontText": "ერთეული"
+  },
+  {
+    "id": 295,
+    "backText": "spring",
+    "frontText": "გაზაფხული"
+  },
+  {
+    "id": 296,
+    "backText": "wet",
+    "frontText": "სველი"
+  },
+  {
+    "id": 297,
+    "backText": "mountain",
+    "frontText": "მთა"
+  },
+  {
+    "id": 298,
+    "backText": "question",
+    "frontText": "შეკითხვა"
+  },
+  {
+    "id": 299,
+    "backText": "evening",
+    "frontText": "საღამო"
+  },
+  {
+    "id": 300,
+    "backText": "fool",
+    "frontText": "სულელი"
+  },
+  {
+    "id": 301,
+    "backText": "summer",
+    "frontText": "ზაფხული"
+  },
+  {
+    "id": 302,
+    "backText": "freeze",
+    "frontText": "გაყინვა"
+  },
+  {
+    "id": 303,
+    "backText": "exercise",
+    "frontText": "ვარჯიში"
+  },
+  {
+    "id": 304,
+    "backText": "police",
+    "frontText": "პოლიცია"
+  },
+  {
+    "id": 305,
+    "backText": "tram",
+    "frontText": "ტრამვაი"
+  },
+  {
+    "id": 306,
+    "backText": "belt",
+    "frontText": "ქამარი"
+  },
+  {
+    "id": 307,
+    "backText": "winter",
+    "frontText": "ზამთარი"
+  },
+  {
+    "id": 308,
+    "backText": "nineteen",
+    "frontText": "ცხრამეტი"
+  },
+  {
+    "id": 309,
+    "backText": "who",
+    "frontText": "ვინ"
+  },
+  {
+    "id": 310,
+    "backText": "orange",
+    "frontText": "ფორთოხალი"
+  },
+  {
+    "id": 311,
+    "backText": "wedding",
+    "frontText": "ქორწილი"
+  },
+  {
+    "id": 312,
+    "backText": "lip",
+    "frontText": "ტუჩი"
+  },
+  {
+    "id": 313,
+    "backText": "scissors",
+    "frontText": "მაკრატელი"
+  },
+  {
+    "id": 314,
+    "backText": "tennis",
+    "frontText": "ჩაქუჩი"
+  },
+  {
+    "id": 315,
+    "backText": "taxi",
+    "frontText": "ტაქსი"
+  },
+  {
+    "id": 316,
+    "backText": "fear",
+    "frontText": "შიში"
+  },
+  {
+    "id": 317,
+    "backText": "twenty",
+    "frontText": "ოცი"
+  },
+  {
+    "id": 318,
+    "backText": "soon",
+    "frontText": "მალე"
+  },
+  {
+    "id": 319,
+    "backText": "weak",
+    "frontText": "სუსტი"
+  },
+  {
+    "id": 320,
+    "backText": "voice",
+    "frontText": "ხმა"
+  },
+  {
+    "id": 321,
+    "backText": "camera",
+    "frontText": "კამერა"
+  },
+  {
+    "id": 322,
+    "backText": "tomorrow",
+    "frontText": "ხვალ"
+  },
+  {
+    "id": 323,
+    "backText": "weather",
+    "frontText": "ამინდი"
+  },
+  {
+    "id": 324,
+    "backText": "milk",
+    "frontText": "რძე"
+  },
+  {
+    "id": 325,
+    "backText": "shoulder",
+    "frontText": "მხარი"
+  },
+  {
+    "id": 326,
+    "backText": "writer",
+    "frontText": "მწერალი"
+  },
+  {
+    "id": 327,
+    "backText": "challenge",
+    "frontText": "გამოწვევა"
+  },
+  {
+    "id": 328,
+    "backText": "deep",
+    "frontText": "ღრმა"
+  },
+  {
+    "id": 329,
+    "backText": "far",
+    "frontText": "შორს"
+  },
+  {
+    "id": 330,
+    "backText": "adult",
+    "frontText": "მოზრდილი"
+  },
+  {
+    "id": 331,
+    "backText": "best",
+    "frontText": "საუკეთესო"
+  },
+  {
+    "id": 332,
+    "backText": "sound",
+    "frontText": "ხმა"
+  },
+  {
+    "id": 333,
+    "backText": "rock",
+    "frontText": "კლდე"
+  },
+  {
+    "id": 334,
+    "backText": "enough",
+    "frontText": "საკმარისი"
+  },
+  {
+    "id": 335,
+    "backText": "main",
+    "frontText": "მთავარი"
+  },
+  {
+    "id": 336,
+    "backText": "laugh",
+    "frontText": "სიცილი"
+  },
+  {
+    "id": 337,
+    "backText": "truth",
+    "frontText": "სიმართლე"
+  },
+  {
+    "id": 338,
+    "backText": "song",
+    "frontText": "სიმღერა"
+  },
+  {
+    "id": 339,
+    "backText": "professor",
+    "frontText": "პროფესორი"
+  },
+  {
+    "id": 340,
+    "backText": "section",
+    "frontText": "სექცია"
+  },
+  {
+    "id": 341,
+    "backText": "name",
+    "frontText": "სახელი"
+  },
+  {
+    "id": 342,
+    "backText": "message",
+    "frontText": "შეტყობინება"
+  },
+  {
+    "id": 343,
+    "backText": "attack",
+    "frontText": "შეტევა"
+  },
+  {
+    "id": 344,
+    "backText": "degree",
+    "frontText": "ხარისხი"
+  },
+  {
+    "id": 345,
+    "backText": "character",
+    "frontText": "ხასიათი"
+  },
+  {
+    "id": 346,
+    "backText": "success",
+    "frontText": "წარმატება"
+  },
+  {
+    "id": 347,
+    "backText": "answer",
+    "frontText": "პასუხი"
+  },
+  {
+    "id": 348,
+    "backText": "quality",
+    "frontText": "ხარისხი"
+  },
+  {
+    "id": 349,
+    "backText": "pressure",
+    "frontText": "წნევა"
+  },
+  {
+    "id": 350,
+    "backText": "simple",
+    "frontText": "მარტივი"
+  },
+  {
+    "id": 351,
+    "backText": "serious",
+    "frontText": "სერიოზული"
+  },
+  {
+    "id": 352,
+    "backText": "lie",
+    "frontText": "სიცრუე"
+  },
+  {
+    "id": 353,
+    "backText": "exactly",
+    "frontText": "ზუსტად"
+  },
+  {
+    "id": 354,
+    "backText": "decade",
+    "frontText": "დეკადა"
+  },
+  {
+    "id": 355,
+    "backText": "february",
+    "frontText": "თებერვალი"
+  },
+  {
+    "id": 356,
+    "backText": "friday",
+    "frontText": "პარასკევი"
+  },
+  {
+    "id": 357,
+    "backText": "factor",
+    "frontText": "ფაქტორი"
+  },
+  {
+    "id": 358,
+    "backText": "natural",
+    "frontText": "ბუნებრივი"
+  },
+  {
+    "id": 359,
+    "backText": "blood",
+    "frontText": "სისხლი"
+  },
+  {
+    "id": 360,
+    "backText": "plan",
+    "frontText": "გეგმა"
+  },
+  {
+    "id": 361,
+    "backText": "pain",
+    "frontText": "ტკივილი"
+  },
+  {
+    "id": 362,
+    "backText": "foreign",
+    "frontText": "უცხო"
+  },
+  {
+    "id": 363,
+    "backText": "drop",
+    "frontText": "წვეთი"
+  },
+  {
+    "id": 364,
+    "backText": "first",
+    "frontText": "პირველი"
+  },
+  {
+    "id": 365,
+    "backText": "mathematics",
+    "frontText": "მათემატიკა"
+  },
+  {
+    "id": 366,
+    "backText": "muscle",
+    "frontText": "კუნთი"
+  },
+  {
+    "id": 367,
+    "backText": "anger",
+    "frontText": "ბრაზი"
+  },
+  {
+    "id": 368,
+    "backText": "deal",
+    "frontText": "გარიგება"
+  },
+  {
+    "id": 369,
+    "backText": "history",
+    "frontText": "ისტორია"
+  },
+  {
+    "id": 370,
+    "backText": "sport",
+    "frontText": "სპორტი"
+  },
+  {
+    "id": 371,
+    "backText": "tiger",
+    "frontText": "ვეფხვი"
+  },
+  {
+    "id": 372,
+    "backText": "go",
+    "frontText": "წასვლა"
+  },
+  {
+    "id": 373,
+    "backText": "stop",
+    "frontText": "შეჩერება"
+  },
+  {
+    "id": 374,
+    "backText": "life",
+    "frontText": "სიცოცხლე"
+  },
+  {
+    "id": 375,
+    "backText": "like",
+    "frontText": "მოწონება"
+  },
+  {
+    "id": 376,
+    "backText": "always",
+    "frontText": "ყოველთვის"
+  },
+  {
+    "id": 377,
+    "backText": "run",
+    "frontText": "გაქცევა"
+  },
+  {
+    "id": 378,
+    "backText": "bring",
+    "frontText": "მოტანა"
+  },
+  {
+    "id": 379,
+    "backText": "sun",
+    "frontText": "მზე"
+  },
+  {
+    "id": 380,
+    "backText": "family",
+    "frontText": "ოჯახი"
+  },
+  {
+    "id": 381,
+    "backText": "yesterday",
+    "frontText": "გუშინ"
+  },
+  {
+    "id": 382,
+    "backText": "watermelon",
+    "frontText": "საზამთრო"
+  },
+  {
+    "id": 383,
+    "backText": "though",
+    "frontText": "თუმცა"
+  },
+  {
+    "id": 384,
+    "backText": "thirty",
+    "frontText": "ოცდაათი"
+  },
+  {
+    "id": 385,
+    "backText": "side",
+    "frontText": "გვერდი"
+  },
+  {
+    "id": 386,
+    "backText": "both",
+    "frontText": "ორივე"
+  },
+  {
+    "id": 387,
+    "backText": "house",
+    "frontText": "სახლი"
+  },
+  {
+    "id": 388,
+    "backText": "sit",
+    "frontText": "დაჯდომა"
+  },
+  {
+    "id": 389,
+    "backText": "hour",
+    "frontText": "საათი"
+  },
+  {
+    "id": 390,
+    "backText": "line",
+    "frontText": "ხაზი"
+  },
+  {
+    "id": 391,
+    "backText": "stand",
+    "frontText": "დგომა"
+  },
+  {
+    "id": 392,
+    "backText": "wolf",
+    "frontText": "მგელი"
+  },
+  {
+    "id": 393,
+    "backText": "end",
+    "frontText": "დასასრული"
+  },
+  {
+    "id": 394,
+    "backText": "pay",
+    "frontText": "გადახდა"
+  },
+  {
+    "id": 395,
+    "backText": "paw",
+    "frontText": "თათი"
+  },
+  {
+    "id": 396,
+    "backText": "meet",
+    "frontText": "შეხვედრა"
+  },
+  {
+    "id": 397,
+    "backText": "continue",
+    "frontText": "გაგრძელება"
+  },
+  {
+    "id": 398,
+    "backText": "president",
+    "frontText": "პრეზიდენტი"
+  },
+  {
+    "id": 399,
+    "backText": "nothing",
+    "frontText": "არაფერი"
+  },
+  {
+    "id": 400,
+    "backText": "follow",
+    "frontText": "გაყოლა"
+  },
+  {
+    "id": 401,
+    "backText": "uncle",
+    "frontText": "ბიძა"
+  },
+  {
+    "id": 402,
+    "backText": "deer",
+    "frontText": "ირემი"
+  },
+  {
+    "id": 403,
+    "backText": "uniform",
+    "frontText": "უნიფორმა"
+  },
+  {
+    "id": 404,
+    "backText": "worker",
+    "frontText": "მუშა"
+  },
+  {
+    "id": 405,
+    "backText": "pool",
+    "frontText": "აუზი"
+  },
+  {
+    "id": 406,
+    "backText": "create",
+    "frontText": "შექმნა"
+  },
+  {
+    "id": 407,
+    "backText": "read",
+    "frontText": "კითხვა"
+  },
+  {
+    "id": 408,
+    "backText": "evil",
+    "frontText": "ბოროტი"
+  },
+  {
+    "id": 409,
+    "backText": "spend",
+    "frontText": "დახარჯვა"
+  },
+  {
+    "id": 410,
+    "backText": "health",
+    "frontText": "ჯანმრთელობა"
+  },
+  {
+    "id": 411,
+    "backText": "literature",
+    "frontText": "ლიტერატურა"
+  },
+  {
+    "id": 412,
+    "backText": "noon",
+    "frontText": "შუადღე"
+  },
+  {
+    "id": 413,
+    "backText": "church",
+    "frontText": "ეკლესია"
+  },
+  {
+    "id": 414,
+    "backText": "grape",
+    "frontText": "ყურძენი"
+  },
+  {
+    "id": 415,
+    "backText": "win",
+    "frontText": "გამარჯვება"
+  },
+  {
+    "id": 416,
+    "backText": "food",
+    "frontText": "საჭმელი"
+  },
+  {
+    "id": 417,
+    "backText": "animation",
+    "frontText": "ანიმაცია"
+  },
+  {
+    "id": 418,
+    "backText": "moment",
+    "frontText": "მომენტი"
+  },
+  {
+    "id": 419,
+    "backText": "support",
+    "frontText": "მხარდაჭერა"
+  },
+  {
+    "id": 420,
+    "backText": "root",
+    "frontText": "ფესვი"
+  },
+  {
+    "id": 421,
+    "backText": "age",
+    "frontText": "ასაკი"
+  },
+  {
+    "id": 422,
+    "backText": "consider",
+    "frontText": "განხილვა"
+  },
+  {
+    "id": 423,
+    "backText": "wait",
+    "frontText": "ლოდინი"
+  },
+  {
+    "id": 424,
+    "backText": "nation",
+    "frontText": "ერი"
+  },
+  {
+    "id": 425,
+    "backText": "college",
+    "frontText": "კოლეჯი"
+  },
+  {
+    "id": 426,
+    "backText": "experience",
+    "frontText": "გამოცდილება"
+  },
+  {
+    "id": 427,
+    "backText": "kill",
+    "frontText": "მოკვლა"
+  },
+  {
+    "id": 428,
+    "backText": "field",
+    "frontText": "მდელო"
+  },
+  {
+    "id": 429,
+    "backText": "strawberry",
+    "frontText": "მარწყვი"
+  },
+  {
+    "id": 430,
+    "backText": "sometimes",
+    "frontText": "ზოგჯერ"
+  },
+  {
+    "id": 431,
+    "backText": "you",
+    "frontText": "შენ"
+  },
+  {
+    "id": 432,
+    "backText": "but",
+    "frontText": "მაგრამ"
+  },
+  {
+    "id": 433,
+    "backText": "what",
+    "frontText": "რა"
+  },
+  {
+    "id": 434,
+    "backText": "about",
+    "frontText": "შესახებ"
+  },
+  {
+    "id": 435,
+    "backText": "time",
+    "frontText": "დრო"
+  },
+  {
+    "id": 436,
+    "backText": "brick",
+    "frontText": "აგური"
+  },
+  {
+    "id": 437,
+    "backText": "people",
+    "frontText": "ხალხი"
+  },
+  {
+    "id": 438,
+    "backText": "now",
+    "frontText": "ახლა"
+  },
+  {
+    "id": 439,
+    "backText": "how",
+    "frontText": "როგორ"
+  },
+  {
+    "id": 440,
+    "backText": "more",
+    "frontText": "მეტი"
+  },
+  {
+    "id": 441,
+    "backText": "minute",
+    "frontText": "წუთი"
+  },
+  {
+    "id": 442,
+    "backText": "find",
+    "frontText": "პოვნა"
+  },
+  {
+    "id": 443,
+    "backText": "here",
+    "frontText": "აქ"
+  },
+  {
+    "id": 444,
+    "backText": "march",
+    "frontText": "მარტი"
+  },
+  {
+    "id": 445,
+    "backText": "really",
+    "frontText": "ნამდვილად"
+  },
+  {
+    "id": 446,
+    "backText": "put",
+    "frontText": "დადება"
+  },
+  {
+    "id": 447,
+    "backText": "student",
+    "frontText": "სტუდენტი"
+  },
+  {
+    "id": 448,
+    "backText": "surface",
+    "frontText": "ზედაპირი"
+  },
+  {
+    "id": 449,
+    "backText": "manager",
+    "frontText": "მენეჯერი"
+  },
+  {
+    "id": 450,
+    "backText": "owl",
+    "frontText": "ბუ"
+  },
+  {
+    "id": 451,
+    "backText": "april",
+    "frontText": "აპრილი"
+  },
+  {
+    "id": 452,
+    "backText": "saturday",
+    "frontText": "შაბათი"
+  },
+  {
+    "id": 453,
+    "backText": "same",
+    "frontText": "იგივე"
+  },
+  {
+    "id": 454,
+    "backText": "begin",
+    "frontText": "დაწყება"
+  },
+  {
+    "id": 455,
+    "backText": "where",
+    "frontText": "სად"
+  },
+  {
+    "id": 456,
+    "backText": "way",
+    "frontText": "გზა"
+  },
+  {
+    "id": 457,
+    "backText": "week",
+    "frontText": "კვირა"
+  },
+  {
+    "id": 458,
+    "backText": "program",
+    "frontText": "პროგრამა"
+  },
+  {
+    "id": 459,
+    "backText": "teach",
+    "frontText": "სწავლება"
+  },
+  {
+    "id": 460,
+    "backText": "peace",
+    "frontText": "მშვიდობა"
+  },
+  {
+    "id": 461,
+    "backText": "translate",
+    "frontText": "თარგმნა"
+  },
+  {
+    "id": 462,
+    "backText": "obtain",
+    "frontText": "მოპოვება"
+  },
+  {
+    "id": 463,
+    "backText": "straight",
+    "frontText": "პირდაპირი"
+  },
+  {
+    "id": 464,
+    "backText": "level",
+    "frontText": "დონე"
+  },
+  {
+    "id": 465,
+    "backText": "lake",
+    "frontText": "ტბა"
+  },
+  {
+    "id": 466,
+    "backText": "hill",
+    "frontText": "ბორცვი"
+  },
+  {
+    "id": 467,
+    "backText": "boast",
+    "frontText": "ტრაბახი"
+  },
+  {
+    "id": 468,
+    "backText": "sleep",
+    "frontText": "ძილი"
+  },
+  {
+    "id": 469,
+    "backText": "dust",
+    "frontText": "მტვერი"
+  },
+  {
+    "id": 470,
+    "backText": "ceiling",
+    "frontText": "ჭერი"
+  },
+  {
+    "id": 471,
+    "backText": "priest",
+    "frontText": "მღვდელი"
+  },
+  {
+    "id": 472,
+    "backText": "bicycle",
+    "frontText": "ველოსიპედი"
+  },
+  {
+    "id": 473,
+    "backText": "porridge",
+    "frontText": "ფაფა"
+  },
+  {
+    "id": 474,
+    "backText": "hare",
+    "frontText": "კურდღელი"
+  },
+  {
+    "id": 475,
+    "backText": "may",
+    "frontText": "მაისი"
+  },
+  {
+    "id": 476,
+    "backText": "vocabulary",
+    "frontText": "ლექსიკონი"
+  },
+  {
+    "id": 477,
+    "backText": "word",
+    "frontText": "სიტყვა"
+  },
+  {
+    "id": 478,
+    "backText": "sad",
+    "frontText": "სევდიანი"
+  },
+  {
+    "id": 479,
+    "backText": "sunday",
+    "frontText": "კვირა"
+  },
+  {
+    "id": 480,
+    "backText": "forty",
+    "frontText": "ორმოცი"
+  },
+  {
+    "id": 481,
+    "backText": "add",
+    "frontText": "დამატება"
+  },
+  {
+    "id": 482,
+    "backText": "year",
+    "frontText": "წელიწადი"
+  },
+  {
+    "id": 483,
+    "backText": "number",
+    "frontText": "რიცხვი"
+  },
+  {
+    "id": 484,
+    "backText": "sentence",
+    "frontText": "წინადადება"
+  },
+  {
+    "id": 485,
+    "backText": "cause",
+    "frontText": "მიზეზი"
+  },
+  {
+    "id": 486,
+    "backText": "ticket",
+    "frontText": "ბილეთი"
+  },
+  {
+    "id": 487,
+    "backText": "thin",
+    "frontText": "თხელი"
+  },
+  {
+    "id": 488,
+    "backText": "nut",
+    "frontText": "კაკალი"
+  },
+  {
+    "id": 489,
+    "backText": "june",
+    "frontText": "ივნისი"
+  },
+  {
+    "id": 490,
+    "backText": "grow",
+    "frontText": "გაზრდა"
+  },
+  {
+    "id": 491,
+    "backText": "joke",
+    "frontText": "ხუმრობა"
+  },
+  {
+    "id": 492,
+    "backText": "moon",
+    "frontText": "მთვარე"
+  },
+  {
+    "id": 493,
+    "backText": "late",
+    "frontText": "გვიანი"
+  },
+  {
+    "id": 494,
+    "backText": "wave",
+    "frontText": "ტალღა"
+  },
+  {
+    "id": 495,
+    "backText": "east",
+    "frontText": "აღმოსავლეთი"
+  },
+  {
+    "id": 496,
+    "backText": "fish",
+    "frontText": "თევზი"
+  },
+  {
+    "id": 497,
+    "backText": "group",
+    "frontText": "ჯგუფი"
+  },
+  {
+    "id": 498,
+    "backText": "list",
+    "frontText": "სია"
+  },
+  {
+    "id": 499,
+    "backText": "carrot",
+    "frontText": "სტაფილო"
+  },
+  {
+    "id": 500,
+    "backText": "product",
+    "frontText": "პროდუქტი"
+  }
+]

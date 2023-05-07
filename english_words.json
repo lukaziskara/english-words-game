@@ -1,0 +1,458 @@
+[
+  {
+    "backText": "adorable",
+    "frontText": "თვალწარმტაცი, მომხიბვლელი"
+  },
+  {
+    "backText": "bail",
+    "frontText": "თავდებობა"
+  },
+  {
+    "backText": "biased",
+    "frontText": "არაობიექტური"
+  },
+  {
+    "backText": "bunch",
+    "frontText": "თაიგული"
+  },
+  {
+    "backText": "butt",
+    "frontText": "დიდი კასრი"
+  },
+  {
+    "backText": "cloak",
+    "frontText": "ლაბადა, მოსასხამი"
+  },
+  {
+    "backText": "confuse",
+    "frontText": "არევ-დარევა, შეცბუნება, გონების არევა"
+  },
+  {
+    "backText": "consistency",
+    "frontText": "თანმიმდევრობა, მუდმივობა"
+  },
+  {
+    "backText": "convulse",
+    "frontText": "კრუნჩხვა, კანკალი"
+  },
+  {
+    "backText": "diabolical",
+    "frontText": "სატანური, ჯოჯოხეთური"
+  },
+  {
+    "backText": "disarm",
+    "frontText": "განიარაღება"
+  },
+  {
+    "backText": "disguise",
+    "frontText": "ტანისამოსის გამოცვლა, შენიღბვა"
+  },
+  {
+    "backText": "disgustful",
+    "frontText": "საზიზღარი, საძაგელი"
+  },
+  {
+    "backText": "environment",
+    "frontText": "გარემო ვითარება"
+  },
+  {
+    "backText": "fugitive",
+    "frontText": "გაქცეული, ლტოლვილი"
+  },
+  {
+    "backText": "glitter",
+    "frontText": "ბრწყინვა, ელვარება, კაშკაში"
+  },
+  {
+    "backText": "glue",
+    "frontText": "წებო"
+  },
+  {
+    "backText": "insane",
+    "frontText": "გიჟი, გადარეული"
+  },
+  {
+    "backText": "interactive",
+    "frontText": "დიალოგური"
+  },
+  {
+    "backText": "introductory",
+    "frontText": "შესავალი, წინასწარი"
+  },
+  {
+    "backText": "lounge",
+    "frontText": "დროსტარება; სავარძელი, შეზლონგი"
+  },
+  {
+    "backText": "molasses",
+    "frontText": "ბადაგი"
+  },
+  {
+    "backText": "mud",
+    "frontText": "ტალახი"
+  },
+  {
+    "backText": "obsess",
+    "frontText": "შიშით შეპყრობა"
+  },
+  {
+    "backText": "obviously",
+    "frontText": "აშკარად, ცხადად"
+  },
+  {
+    "backText": "orphan",
+    "frontText": "ობოლი"
+  },
+  {
+    "backText": "perfection",
+    "frontText": "სრულყოფა, გაუმჯობესება"
+  },
+  {
+    "backText": "plunder",
+    "frontText": "ძარცვა"
+  },
+  {
+    "backText": "quotation",
+    "frontText": "ციტატა"
+  },
+  {
+    "backText": "refuge",
+    "frontText": "თავშესაფარი"
+  },
+  {
+    "backText": "remain",
+    "frontText": "დარჩენა"
+  },
+  {
+    "backText": "remnant",
+    "frontText": "ნარჩენი"
+  },
+  {
+    "backText": "resistance",
+    "frontText": "წინაღობა"
+  },
+  {
+    "backText": "rhyme",
+    "frontText": "რითმა"
+  },
+  {
+    "backText": "sausage",
+    "frontText": "ძეხვი"
+  },
+  {
+    "backText": "sneak",
+    "frontText": "მიპარვა, დაბეზღება, დასმენა"
+  },
+  {
+    "backText": "stuff",
+    "frontText": "ნივთიერება, მასალა"
+  },
+  {
+    "backText": "suggest",
+    "frontText": "შეთავაზება"
+  },
+  {
+    "backText": "suspicious",
+    "frontText": "საეჭვო"
+  },
+  {
+    "backText": "thwart",
+    "frontText": "ჯიუტი, უტეხი; ხელის შეშლა, გეგმის ჩაშლა"
+  },
+  {
+    "backText": "unleash",
+    "frontText": "ომის დაწყება"
+  },
+  {
+    "backText": "humble",
+    "frontText": "თავმდაბალი"
+  },
+  {
+    "backText": "gloating",
+    "frontText": "არაკეთილმოსურნე"
+  },
+  {
+    "backText": "centennial",
+    "frontText": "საუკუნოვანი"
+  },
+  {
+    "backText": "freak",
+    "frontText": "ჟინი, ახირება; გონჯი"
+  },
+  {
+    "backText": "trail",
+    "frontText": "კვალი"
+  },
+  {
+    "backText": "unfaithful",
+    "frontText": "ორგული, მოღალატე, ვერაგი"
+  },
+  {
+    "backText": "deal",
+    "frontText": "დარიგება, განაწილება; საქმის დაჭერა"
+  },
+  {
+    "backText": "drown",
+    "frontText": "დახრჩობა"
+  },
+  {
+    "backText": "ridge",
+    "frontText": "მთის ქედი, კვალი"
+  },
+  {
+    "backText": "lame",
+    "frontText": "კოჭლი, დასახიჩრებული, ფუჭი"
+  },
+  {
+    "backText": "maul",
+    "frontText": "დასახიჩრება, წამება"
+  },
+  {
+    "backText": "smash",
+    "frontText": "მსხვრევა; დაჯახება; გაკოტრება"
+  },
+  {
+    "backText": "claw",
+    "frontText": "ბრჭყალი; ფხაჭნა, კაწვრა"
+  },
+  {
+    "backText": "provision",
+    "frontText": "მომარაგება, უზრუნველყოფა"
+  },
+  {
+    "backText": "supposed",
+    "frontText": "მოჩვენებითი, სავარაუდო"
+  },
+  {
+    "backText": "belligerent",
+    "frontText": "აგრესიული"
+  },
+  {
+    "backText": "intend",
+    "frontText": "განზრახვა"
+  },
+  {
+    "backText": "haul",
+    "frontText": "წევა, თრევა"
+  },
+  {
+    "backText": "devour",
+    "frontText": "ხარბად ჭამა, შთანთქვა"
+  },
+  {
+    "backText": "closure",
+    "frontText": "ტიხარი; კამათის შეწყვეტა"
+  },
+  {
+    "backText": "attitude",
+    "frontText": "პოზიცია"
+  },
+  {
+    "backText": "indigenous",
+    "frontText": "ადგილობრივი"
+  },
+  {
+    "backText": "carnivore",
+    "frontText": "მტაცებელი, ხორციჭამია"
+  },
+  {
+    "backText": "decent",
+    "frontText": "ზრდილობიანი, თავაზიანი"
+  },
+  {
+    "backText": "eyewitness",
+    "frontText": "თვითმხილველი, მოწმე"
+  },
+  {
+    "backText": "crayon",
+    "frontText": "ფერადი ფანქარი"
+  },
+  {
+    "backText": "wraith",
+    "frontText": "აჩრდილი, სული"
+  },
+  {
+    "backText": "premonitions",
+    "frontText": "წინათგრძნობა"
+  },
+  {
+    "backText": "argue",
+    "frontText": "კამათი, მტკიცება, განხილვა"
+  },
+  {
+    "backText": "ought",
+    "frontText": "ვალად დადება(ევალება)"
+  },
+  {
+    "backText": "wreckage",
+    "frontText": "ზარალი"
+  },
+  {
+    "backText": "employ",
+    "frontText": "სამსახური"
+  },
+  {
+    "backText": "adult",
+    "frontText": "მოწიფული, მოზრდილი"
+  },
+  {
+    "backText": "indulgence",
+    "frontText": "შემწყნარებლობა"
+  },
+  {
+    "backText": "emulate",
+    "frontText": "შეჯიბრება, მეტოქეობა"
+  },
+  {
+    "backText": "stain",
+    "frontText": "ლაქა; დალაქავება"
+  },
+  {
+    "backText": "errand",
+    "frontText": "დავალება, მივლინება"
+  },
+  {
+    "backText": "martial",
+    "frontText": "სამხედრო"
+  },
+  {
+    "backText": "cape",
+    "frontText": "კონცხი; ლაბადა, მოსასხამი"
+  },
+  {
+    "backText": "struggle",
+    "frontText": "ბრძოლა"
+  },
+  {
+    "backText": "mercenary",
+    "frontText": "დაქირავებული, ანგარებიანი"
+  },
+  {
+    "backText": "rib",
+    "frontText": "ნეკნი"
+  },
+  {
+    "backText": "assembe",
+    "frontText": "შეკრება, შეგროვება, მოგროვება"
+  },
+  {
+    "backText": "attest",
+    "frontText": "დადასტურება, დამოწმება"
+  },
+  {
+    "backText": "trembling",
+    "frontText": "კანკალი"
+  },
+  {
+    "backText": "terrified",
+    "frontText": "შეძრწუნებული"
+  },
+  {
+    "backText": "acquisition",
+    "frontText": "შენაძენი, მონაპოვარი"
+  },
+  {
+    "backText": "sewerage",
+    "frontText": "კანალიზაცია"
+  },
+  {
+    "backText": "snap",
+    "frontText": "ტკაცუნი"
+  },
+  {
+    "backText": "belly",
+    "frontText": "ღიპი, კუჭი"
+  },
+  {
+    "backText": "savage",
+    "frontText": "ველური, უხეში"
+  },
+  {
+    "backText": "apart",
+    "frontText": "გვერდზე, ცალკე"
+  },
+  {
+    "backText": "utility",
+    "frontText": "სარგებლიანობა"
+  },
+  {
+    "backText": "alley",
+    "frontText": "ვიწრო ქუჩა"
+  },
+  {
+    "backText": "rage",
+    "frontText": "მძვინვარება"
+  },
+  {
+    "backText": "rumble",
+    "frontText": "გრგვინვა, გრიალი"
+  },
+  {
+    "backText": "stubborn",
+    "frontText": "ჯიუტი"
+  },
+  {
+    "backText": "immature",
+    "frontText": "უმწიფარი"
+  },
+  {
+    "backText": "studious",
+    "frontText": "ბეჯითი"
+  },
+  {
+    "backText": "pious",
+    "frontText": "ღვთისმოშიში"
+  },
+  {
+    "backText": "peer",
+    "frontText": "ტოლი, სწორი"
+  },
+  {
+    "backText": "notion",
+    "frontText": "წარმოდგენა, შეხებულება, აზრი"
+  },
+  {
+    "backText": "inconsequent",
+    "frontText": "არათანმიმდევრული"
+  },
+  {
+    "backText": "hebrew",
+    "frontText": "ძველებრაული"
+  },
+  {
+    "backText": "zeal",
+    "frontText": "გულმოდგინება"
+  },
+  {
+    "backText": "corroboration",
+    "frontText": "დასტური"
+  },
+  {
+    "backText": "entity",
+    "frontText": "ერთობა"
+  },
+  {
+    "backText": "accustomed",
+    "frontText": "შეჩვეული"
+  },
+  {
+    "backText": "encounter",
+    "frontText": "შეხვედრა, დაკავშირება"
+  },
+  {
+    "backText": "malevolent",
+    "frontText": "ბოროტგანზრახული"
+  },
+  {
+    "backText": "peer",
+    "frontText": "შეხედვა"
+  },
+  {
+    "backText": "perception",
+    "frontText": "აღქმა"
+  },
+  {
+    "backText": "binding",
+    "frontText": "კვანძი"
+  }
+]
