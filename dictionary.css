@@ -25,6 +25,9 @@ header {
   box-sizing: border-box;
 }
 .card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: 14px;
   color: rgb(8, 8, 8);
   background-color: rgb(43, 146, 43);
