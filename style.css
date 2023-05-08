@@ -34,15 +34,6 @@ header {
   display: flex;
   flex-wrap: wrap;
 }
-.translatedWord {
-  color: white;
-  background-color: rgb(36, 63, 32);
-  margin: 10px;
-  width: 100px;
-  height: 65px;
-  text-align: center;
-  border-radius: 5px;
-}
 
 @media only screen and (min-width: 768px) {
   .container {
