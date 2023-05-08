@@ -1,23 +1,23 @@
-body{
+body {
+  background-color: grey;
   margin: 0px;
 }
-header{
-  background-color: blue;
-  height: 100px;
-  display:flex;
+.container {
+  background-color: green;
+  width: 95%;
+  margin: auto;
+  min-width: 375px;
+}
+header {
+  background-color: rgb(62, 69, 113);
+  /* height: 100px; */
+  display: flex;
   justify-content: center;
-  height: 100px;
+  /* height: 100px; */
   padding: 10px;
   text-align: center;
 }
-.menu_button{
-  margin: 5px;
-  padding: 7px;
-  height: 65px;
-  background-color:rgb(154, 155, 155);
-  border-radius: 5px;
-}
-.score{
+.score {
   display: flex;
   justify-content: left;
   background-color: blue;
@@ -29,58 +29,23 @@ header{
   display: flex;
   flex-wrap: wrap;
 }
-.grid {
-  display: flex;
-  flex-wrap: wrap;
-  
-}
-.word{
-  color:white;
-  background-color: green;
-  margin: 10px;
-  width: 100px;
-  height: 65px;
-  text-align: center;
-  border-radius: 5px;
-}
-.wonWord{
-  color:white;
-  background-color: rgb(255, 255, 255);
-  margin: 10px;
-  width: 100px;
-  height: 65px;
-  text-align: center;
-  border-radius: 5px;
-}
-.oneSideWord{
-  color:white;
-  background-color: green;
-  margin: 10px;
-  width: 100px;
-  height: 65px;
-  text-align: center;
-  border-radius: 5px;
-}
-.twoSideWord{
-  color:white;
-  background-color: rgb(155, 3, 3);
-  margin: 10px;
-  width: 100px;
-  height: 65px;
-  text-align: center;
-  border-radius: 5px;
-}
 .dict {
   background-color: aqua;
   display: flex;
   flex-wrap: wrap;
 }
-.translatedWord{
-  color:white;
-  background-color: rgb(68, 48, 1);
+.translatedWord {
+  color: white;
+  background-color: rgb(36, 63, 32);
   margin: 10px;
   width: 100px;
   height: 65px;
   text-align: center;
   border-radius: 5px;
+}
+
+@media only screen and (min-width: 768px) {
+  .container {
+    max-width: 700px;
+  }
 }
