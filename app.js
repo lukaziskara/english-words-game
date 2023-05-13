@@ -150,8 +150,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
       if (cardsWon.length == wordsArray.length / 2) {
         shuffled.textContent = "YOU WON";
-        shuffled.style.backgroundColor = "green";
-        shuffled.style.padding = "auto";
+        // shuffled.style.backgroundColor = "green";
+        shuffled.classList.add("cleared_board");
         document.getElementById("gameBoard").style.height = "100px";
       }
     }

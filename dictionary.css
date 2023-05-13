@@ -5,6 +5,7 @@ header {
   height: 1em;
   margin-left: 1em;
   background-color: rgb(124, 124, 124);
+  font-size: 18px;
   width: 70%;
   border-radius: 1em;
   color: green;
@@ -16,6 +17,11 @@ header {
   width: 100%;
   /* justify-content: space-around;
   box-sizing: border-box; */
+}
+.cleared_board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .card {
   /* display: flex;
