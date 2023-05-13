@@ -4,9 +4,9 @@ body {
 }
 .container {
   background-color: green;
-  width: 95%;
+  /* width: 95%; */
   margin: auto;
-  min-width: 375px;
+  max-width: 375px;
 }
 header {
   background-color: rgb(62, 69, 113);
@@ -37,12 +37,12 @@ header {
 
 @media only screen and (min-width: 400px) {
   .container {
-    max-width: 375px;
+    /* max-width: 375px; */
   }
 }
 
 @media only screen and (min-width: 768px) {
   .container {
-    min-width: 750px;
+    max-width: 760px;
   }
 }
