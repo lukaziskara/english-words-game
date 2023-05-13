@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const optionTwoId = cardsChosenId[1];
       console.log("შემოწმებაზე", optionOneId, optionTwoId);
       if (optionOneId === optionTwoId) {
-        alert("You have clicked the same image!");
+        cards[optionTwoId].classList.remove("clicked");
         console.log("იგივე ბარათია");
         cards[optionOneId].textContent = wordsArray[cardsChosenId[0]].frontText;
         cards[optionTwoId].textContent = wordsArray[cardsChosenId[1]].frontText; //alert('Sorry, try again')
@@ -146,10 +146,12 @@ document.addEventListener("DOMContentLoaded", () => {
         ")";
       console.log(cardsWon.length);
       console.log(wordsArray.length);
-      // console.log(wordsArray);
+      console.log(shuffled);
 
       if (cardsWon.length == wordsArray.length / 2) {
         shuffled.textContent = "YOU WON";
+        shuffled.style.backgroundColor = "green";
+        shuffled.style.padding = "auto";
         document.getElementById("gameBoard").style.height = "100px";
       }
     }
